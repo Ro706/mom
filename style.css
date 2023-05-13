@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.wish{
+    width:70%;
+    height: auto;
+    text-decoration: underline;
+}
+body{
+    background-color: pink;
+    color:rgb(227, 65, 119);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    padding: 50px;
+}
+.slideshow-container{
+    border:4px solid rgb(216, 47, 75);
+    padding: 20px;
+}
